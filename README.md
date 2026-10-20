@@ -27,6 +27,6 @@ que mejoren la experiencia del usuario.
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=contrererick-ids&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=contrererick&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
